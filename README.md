@@ -1,4 +1,4 @@
-# 📈 Stock Price History Fetcher
+# 📈 Stock Price Fetcher
 
 A simple Node.js backend API that gives historical stock data based on user-provided stock ticker symbols. Built using:
 
